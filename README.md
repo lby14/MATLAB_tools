@@ -10,6 +10,7 @@ More useful simple tools will be added in this project.
 And I look forward to someone joining this project.
 
 =========================================================
+
 这个工具是为matlab R2020b开发的。
 这些工具用于进行双麦阵列一些简单参数的计算，例如：
 1. GSC算法中，不同的加权矩阵W对应的波束图
